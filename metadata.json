@@ -1,0 +1,6 @@
+{
+  "name": "Voxforma — Personal Voice Generator",
+  "description": "Personal neural voice generator built around your own voice with acoustic cloning, expressive emotional tones, and custom speech pacing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
